@@ -12,6 +12,11 @@ kodlar
 - ikinci liste elemanı
 - üçüncü
 
+yeni satır
+
+
 devam
 
 ![ekran_goruntu](./ekran2goruntu.png)
+
+
